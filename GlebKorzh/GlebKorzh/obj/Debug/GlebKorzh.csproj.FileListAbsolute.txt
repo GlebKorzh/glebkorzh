@@ -1,0 +1,11 @@
+C:\Users\student\GlebKorzh\GlebKorzh\bin\Debug\GlebKorzh.exe.config
+C:\Users\student\GlebKorzh\GlebKorzh\bin\Debug\GlebKorzh.exe
+C:\Users\student\GlebKorzh\GlebKorzh\bin\Debug\GlebKorzh.pdb
+C:\Users\student\GlebKorzh\GlebKorzh\obj\Debug\GlebKorzh.csproj.AssemblyReference.cache
+C:\Users\student\GlebKorzh\GlebKorzh\obj\Debug\GlebKorzh.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\GlebKorzh\GlebKorzh\obj\Debug\GlebKorzh.Form1.resources
+C:\Users\student\GlebKorzh\GlebKorzh\obj\Debug\GlebKorzh.Properties.Resources.resources
+C:\Users\student\GlebKorzh\GlebKorzh\obj\Debug\GlebKorzh.csproj.GenerateResource.cache
+C:\Users\student\GlebKorzh\GlebKorzh\obj\Debug\GlebKorzh.csproj.CoreCompileInputs.cache
+C:\Users\student\GlebKorzh\GlebKorzh\obj\Debug\GlebKorzh.exe
+C:\Users\student\GlebKorzh\GlebKorzh\obj\Debug\GlebKorzh.pdb
